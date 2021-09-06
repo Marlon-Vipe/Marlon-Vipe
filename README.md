@@ -1,5 +1,4 @@
-### Hi there, I'm Marlon Villalona. 👋
-#### Info. coming soon ..
+### Hi there, I'm Marlon Villalona. 👋🧑🏻‍💻☆
 
 <!--
 **Marlon-Vipe/Marlon-Vipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
