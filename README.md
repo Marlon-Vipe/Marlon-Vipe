@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at Software QA Engineer at Claro RD & studying Software Engineer at APEC. I'm gradauted from ITLA
+- 🔭 I’m currently working at Software Engineer at Claro RD & studying Software Engineer at APEC. I'm gradauted from ITLA
 - 🌱 Stack: .Net Core, DevOps, CI / CD, Git, SCRUM, SQL, Unit Test, Javascript.
 - 💬 Ask me about whatelse
 - 📫 How to reach me: iamvillalona@gmail.com | iamvillalona@hotmail.com | https://www.linkedin.com/in/marlon-villalona-3577161b4/ 
