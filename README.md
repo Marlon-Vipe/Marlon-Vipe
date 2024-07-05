@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 <!-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with -->
 <!--😄 Pronouns: -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Marlon-Vipe)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marlon-Vipe&theme=shades-of-purple)](https://git.io/streak-stats)
