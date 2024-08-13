@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ### My  Skills:
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet,angular,azure,sql,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet,angular,azure,bootstrap,linux,ts,wordpress)](https://skillicons.dev)
