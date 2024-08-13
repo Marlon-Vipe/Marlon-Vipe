@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marlon-Vipe&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marlon-Vipe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### MY SKILLS:
+### My  Skills:
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,angular,azure)](https://skillicons.dev)
