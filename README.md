@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 Stack / Skills: Angular, .Net Core, Typescript, Javascript, Tailwind,  Node JS, Docker, DevOps, Git, SCRUM, SQL, ORACLE, MongoDB, Unit Test.
 - 💬 Ask me about whatelse
 - 📫 How to reach me: iamvillalona@gmail.com | https://www.linkedin.com/in/marlon-villalona-3577161b4/ 
-- ⚡ Fun fact: I like baseball (Licey Campeón), basketball, listening to music, share with my friends and play videogames.... and also drink. 😝
+- ⚡ Fun fact: I like baseball (Licey Campeón!), basketball, listening to music, share with my friends and play videogames.... and also drink. 😝
 <!-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with -->
 <!--😄 Pronouns: -->
