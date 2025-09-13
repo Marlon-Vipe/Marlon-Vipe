@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at Fullstack Developer at Claro RD & studying Software Engineer at APEC. I'm gradauted from ITLA as a Software Development Technologist.
-- 🌱 Stack / Skills: Angular, .Net Core, Typescript, Javascript, Tailwind,  Node JS, Docker, DevOps, Git, SCRUM, SQL, ORACLE, MongoDB, Unit Test.
+- 🌱 Stack / Skills: React, .Net Core, Typescript, Tailwind,  Node JS, Docker, DevOps, Git, SCRUM, SQL, ORACLE, MongoDB, Unit Test, Playwright.
 - 💬 Ask me about whatelse
 - 📫 How to reach me: https://marlonvillalona.com
 - ⚡ Fun fact: I like baseball (Licey Campeón!), basketball, listening to music, share with my friends and play videogames.... and also drink. 😝
