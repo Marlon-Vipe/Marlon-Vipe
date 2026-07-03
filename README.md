@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at Fullstack Developer at Claro RD & studying Software Engineer at APEC. I'm gradauted from ITLA as a Software Development Technologist.
+- 🔭 I’m currently working at Software Datawarehouse Engineer at Asociacion La Nacional de Ahorros y Prestamos & studying Software Engineer at APEC. I'm gradauted from ITLA as a Software Development Technologist.
 - 🌱 Stack / Skills: React, .Net Core, Typescript, Tailwind,  Node JS, Docker, DevOps, Git, SCRUM, SQL, ORACLE, MongoDB, Unit Test, Playwright.
 - 💬 Ask me about whatelse
 - 📫 How to reach me: https://marlonvillalona.com
